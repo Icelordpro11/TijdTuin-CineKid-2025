@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47148682ff10638448b5953ed4cafc57, type: 3}
+  m_Name: Seed_Lavender
+  m_EditorClassIdentifier: 
+  seedName: Lavender
+  plantPrefab: {fileID: 2969703262724091905, guid: b0eb9336239f501499c334f79ea605f4, type: 3}
+  nameplateMat: {fileID: 2100000, guid: 105c14497cd15824aad981284bef55c9, type: 2}
+  seedSprite: {fileID: 21300000, guid: 791b80aee676c25469b5681095ba9822, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47148682ff10638448b5953ed4cafc57, type: 3}
+  m_Name: Seed_Tomato
+  m_EditorClassIdentifier: 
+  seedName: Tomato
+  plantPrefab: {fileID: 3490783645235057128, guid: fb008865b33219e4a8ea6de7fa428fa7, type: 3}
+  nameplateMat: {fileID: 2100000, guid: e13c89d512477c24d97f2d2fe328243a, type: 2}
+  seedSprite: {fileID: 21300000, guid: 0c57db2579942274cb2c47ec80d7c71f, type: 3}

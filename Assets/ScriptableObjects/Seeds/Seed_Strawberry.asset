@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47148682ff10638448b5953ed4cafc57, type: 3}
+  m_Name: Seed_Strawberry
+  m_EditorClassIdentifier: 
+  seedName: Strawberry
+  plantPrefab: {fileID: 2400075451910857315, guid: 209fef2589f602642aaecaa710ee5749, type: 3}
+  nameplateMat: {fileID: 2100000, guid: 471045c905632a1419bdc2f7f5b2fda5, type: 2}
+  seedSprite: {fileID: 21300000, guid: 68d9b1ad6e0b39440ad3f6c3a1573e84, type: 3}
